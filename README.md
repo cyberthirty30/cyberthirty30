@@ -9,8 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Coder;UX+Designer;Bug+Hunter;Audio+Engineer" alt="Typing SVG" />
   </a>
   <br>
-  I'm passionate about <b>business and technology</b>, combining programming, web development, UX design, 3D graphics, and animation to drive innovation, optimize company resources, and ensure cybersecurity for my organization and clients.<br><br>
-  My interests span <b><i>TryHackMe, business strategy, music production, 3D development, and HackTheBox</i></b>, allowing me to merge creativity with technical expertise.
+  I'm passionate about <b>business and technology</b><br>
+  My interests span <b><i>TryHackMe, business strategy, music production, 3D development, and HackTheBox</i></b>.
 </p>
 
 ---
