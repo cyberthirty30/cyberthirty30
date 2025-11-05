@@ -9,6 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Audio+Engineer;3D+Designer;Software+Developer;Cyber+Security+Enthusiast;Producer;Programmer;UX+Designer;Bug+Hunter;" alt="Typing SVG" />
   </a>
   <br>
+  <a href="https://cyberthirty30.github.io" target="_blank" rel="noopener noreferrer">
+      <img 
+          src="https://img.shields.io/badge/EXECUTE_%3E_OPEN--PORTFOLIO()-0ac647?style=for-the-badge&logo=terminal&logoColor=white" 
+          alt="Launch Portfolio" 
+      />
+  </a>
+  <br>
   I'm passionate about <b>business and technology</b><br>
   My interests span <b><i>TryHackMe, business strategy, music production, 3D development, and HackTheBox</i></b>.
 </p>
