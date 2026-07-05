@@ -1,6 +1,4 @@
-<p align="center">
-  
-  <br>
+<p align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Audio+Engineer;3D+Designer;Software+Developer;Cyber+Security+Enthusiast;Music+Producer;Programmer;UX+Designer;Security+Researcher;" alt="Typing SVG" />
   </a>
@@ -11,8 +9,6 @@
           alt="Launch Portfolio" 
       />
   </a>
-  <br>
-  <br>
 
 </p>
 
